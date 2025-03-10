@@ -4,7 +4,7 @@ import { GoogleOAuthProvider } from '@react-oauth/google';
 import "./App.css"
 
 
-const clientId = '737771720330-n79m1a4ou5b4vq1h7uc6lcs3p7etgg58.apps.googleusercontent.com'
+const clientId = '' // enter client id
 
 function App() {
   return (
